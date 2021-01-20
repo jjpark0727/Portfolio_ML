@@ -33,6 +33,7 @@ I worked on this problem set while taking a course named Multivariate Analaysis 
    
    
    (5) Review  
+   
     While working on this problem set, I enjoyed taking different approaches by using a slightly advanced method (validation set approach -> k-fold cross validation) and by trying out different codes (which sometimes involes hardcoding but it definitely helps me understand how the model works). Next time I will apply different maching learning models and see if there are any better models to predict housing price!   
 
 
