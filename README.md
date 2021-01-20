@@ -8,7 +8,7 @@ This portfolio consists of Machine Learning projects that I worked on either in 
 
 - **Project Overview**
 
-I worked on this problem set while taking a course named Multivariate Analaysis at the University of Minnesota. In class, we were just given training set and test set, but I rather took a different approach this time by using k-fold cross validation for model assessment.  
+   I worked on this problem set while taking a course named Multivariate Analaysis at the University of Minnesota. In class, we were just given training set and test set, but I rather took a different approach this time by using k-fold cross validation for model assessment.  
 
 
 
@@ -34,7 +34,7 @@ I worked on this problem set while taking a course named Multivariate Analaysis 
    
    (5) Review  
    
-    While working on this problem set, I enjoyed taking different approaches by using a slightly advanced method (validation set approach -> k-fold cross validation) and by trying out different codes (which sometimes involes hardcoding but it definitely helps me understand how the model works). Next time I will apply different maching learning models and see if there are any better models to predict housing price!   
+      While working on this problem set, I enjoyed taking different approaches by using a slightly advanced method (validation set approach -> k-fold cross validation) and by trying out different codes (which sometimes involes hardcoding but it definitely helps me understand how the model works). Next time I will apply different maching learning models and see if there are any better models to predict housing price!   
 
 
 - **File Descriptions**
