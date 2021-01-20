@@ -43,4 +43,4 @@ I worked on this problem set while taking a course named Multivariate Analaysis 
    - *fancyhouse.csv*: Dataset used for prediction
 
 
-To see files: [Click Here](https://github.com/jjpark0727/Portfolio_Statistical_Analysis/tree/main/Ordinal%20Logistic%20Regression)
+To see files: [Click Here](https://github.com/jjpark0727/Portfolio_ML/tree/main/Housing%20Price)
